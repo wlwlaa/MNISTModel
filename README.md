@@ -10,6 +10,7 @@ You can download the pre-trained TinyVGG model weights from this repository.
 
 ### Performance
 <img width="652" alt="image" src="https://github.com/wlwlaa/MNISTModel/assets/112896514/920031d2-babf-4270-9b7a-e349c2f18c8b">
+
 The model achieves an accuracy of over 98.5% on the MNIST test set.
 
 
